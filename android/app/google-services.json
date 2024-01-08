@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "693114472705",
+    "firebase_url": "https://chat-room-demo-e9002-default-rtdb.firebaseio.com",
+    "project_id": "chat-room-demo-e9002",
+    "storage_bucket": "chat-room-demo-e9002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693114472705:android:4a8cf5c3af722d089a7300",
+        "android_client_info": {
+          "package_name": "com.example.chat_room_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcsqlYUG-mGt0mHFqw8ZMN0DJ10IIj_gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
